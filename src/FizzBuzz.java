@@ -5,6 +5,7 @@ class FizzBuzz {
 
     public static void main(String[] args) {
         int i = 1;
+        System.out.println("test");
         while(i < 100) {
 
             doFizBuzz(i);
